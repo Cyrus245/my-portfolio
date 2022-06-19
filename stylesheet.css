@@ -1,0 +1,304 @@
+*{
+
+  margin: 0;
+  padding:0;
+
+
+}
+
+
+.box{
+
+  background-color:#F9F2ED;
+  display: flex;
+  height: 10px;
+  margin-top: 10px;
+}
+
+
+body{
+    background-color: lightblue;
+
+}
+
+.contact{
+
+  font-size:1rem;
+  margin-left: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+
+
+}
+
+
+.css{
+
+ background-color: #4C3A51;
+ width: 85%;
+
+}
+
+.company-text{
+
+  text-align: justify;
+}
+
+.company-text h4{
+
+  font-size:20px;
+
+
+
+}
+
+.company-1{
+ margin-bottom: 20px;
+
+}
+
+.Learnings{
+
+  font-size:1.2rem;
+  margin-left: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+
+
+}
+
+
+.degree{
+
+font-size:.9rem;
+margin-top: 20px;
+margin-bottom: 20px;
+color: #F2EBE9;
+
+
+}
+
+.degree-title {
+
+  font-weight: bold;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  color: #9EB23B;
+}
+
+.edu h3 {
+ font-size:1.2rem;
+ margin-left: 30px;
+ margin-top: 40px;
+ margin-bottom: 20px;
+
+}
+
+
+.exam-title{
+ margin-left: 30px;
+
+}
+
+.exp-text{
+
+    font-size: 1.2rem;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    color: #243A73;
+
+}
+
+.html{
+
+ background-color: #4C3A51;
+ width: 80%;
+
+
+}
+
+
+
+.hobbies h3{
+
+  font-size:1.2rem;
+  margin-left: 30px;
+  margin-top: 40px;
+  margin-bottom: 20px;
+
+
+
+}
+
+
+.hr {
+  width: 80%;
+  margin: 20px auto;
+}
+
+#img{
+
+
+height: 170px;
+margin: 10px 0 10px 0;
+border: solid #839AA8;
+border-width: thick;
+
+
+}
+
+
+.intro{
+text-align: center;
+color: white;
+font-family: 'Poppins', sans-serif;
+
+}
+
+.icon{
+
+ color: #51557E;
+ /* margin-right: 5px; */
+
+}
+
+
+.icon-text{
+  margin-left: 5px;
+}
+
+.Javascript{
+
+ background-color: #4C3A51;
+ width: 95%;
+
+}
+
+.left_side{
+
+  background-color:#06283D;
+  color: white;
+  border-right: solid #FAC213;
+  border-width: 40px;
+
+
+
+}
+
+
+.name {
+
+  font-size: 1.8rem;
+}
+
+
+.p-info{
+
+  margin-bottom:60px;
+
+
+}
+
+
+
+
+.profile{
+
+  font-size: 1.2rem;
+  font-weight: bolder;
+  margin-top: 30px;
+  color: #243A73;
+
+
+}
+
+.percent{
+
+
+  background-color: #D3EBCD;
+  height: 10px;
+  width: 90%;
+  margin-bottom: 50px;
+}
+
+
+.PERCENTAGE{
+
+
+  background-color:#1B2430;
+  height: 10px;
+}
+
+.profile-text {
+
+  text-align: justify;
+  line-height: 1.8;
+}
+
+
+.Right_side{
+   text-align: justify;
+}
+
+
+
+.react{
+
+ background-color: #4C3A51;
+ width: 92%;
+
+}
+
+
+.skill-heading{
+   font-size: 1.2rem;
+   font-weight: bolder;
+   margin-top: 30px;
+   margin-bottom: 30px;
+   color: #243A73;
+
+}
+
+.skill-text{
+
+  font-size: 1.5rem;
+
+}
+
+
+.title{
+
+
+  font-weight: lighter;
+}
+
+
+ul{
+
+  text-align: left;
+    font-weight: lighter;
+}
+
+
+ul li{
+
+  list-style: none;
+  line-height:1.7;
+  /* text-align: justif */
+
+}
+
+.year-company{
+
+  color: #14C38E;
+  font-weight: bold;
+
+
+}
+
+.xxx{
+
+  text-align: center;
+
+}
